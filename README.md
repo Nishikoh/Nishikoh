@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="giphy.gif" width="25">
+### Hi there 👋 <img src="https://github.com/Nishikoh/Nishikoh/blob/master/giphy.gif" width="30">
 
 <!--
 **Nishikoh/Nishikoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
