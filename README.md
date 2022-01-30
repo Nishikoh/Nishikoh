@@ -1,5 +1,7 @@
 ### Hi there 👋 <img src="https://github.com/Nishikoh/Nishikoh/blob/master/giphy.gif" width="35">
+<!-- ![Nishikoh's github stats](https://github-readme-stats.vercel.app/api?username=nishikoh&count_private=true&show_icons=true) -->
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nishikoh)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--
 **Nishikoh/Nishikoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
